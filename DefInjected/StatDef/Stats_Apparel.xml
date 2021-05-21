@@ -3,7 +3,7 @@
 
   <StuffEffectMultiplierInsulation_Cold.label>Insulation - Cold - Material effect multiplier</StuffEffectMultiplierInsulation_Cold.label>
   <StuffEffectMultiplierInsulation_Heat.label>Insulation - Heat - Material effect multiplier</StuffEffectMultiplierInsulation_Heat.label>
-  <StuffEffectMultiplierArmour.label>Armour - Material effect multiplier</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierArmor.label>Armour - Material effect multiplier</StuffEffectMultiplierArmor.label>
 
   <ArmorRating_Sharp.label>Armour - Sharp</ArmorRating_Sharp.label>
   <ArmorRating_Sharp.description>Armour against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nThis is the percentage chance that an attack will be affected by the armour. Once the damage is affected, there is a 50% chance it will be deflected entirely, and a 50% chance it will be partially absorbed and converted into a half-damage blunt impact. Many attacks have armour penetration that will cancel part of this armour rating.</ArmorRating_Sharp.description>

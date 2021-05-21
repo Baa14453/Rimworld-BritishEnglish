@@ -172,7 +172,7 @@
   
   <!-- Info card -->
   <Damage>Damage</Damage>
-  <ArmourPenetration>Armour penetration</ArmorPenetration>
+  <ArmorPenetration>Armour penetration</ArmorPenetration>
   <ArmorPenetrationExplanation>Armour penetration is the amount of armour this weapon will ignore each time it hits the target.\n\nIf armour penetration is greater than the target's armour, it is as though the target is unarmoured. Otherwise, the armour penetration is subtracted from the target's armour.</ArmorPenetrationExplanation>
   <Accuracy>Accuracy</Accuracy>
   <BurstShotCount>Burst shot count</BurstShotCount>
