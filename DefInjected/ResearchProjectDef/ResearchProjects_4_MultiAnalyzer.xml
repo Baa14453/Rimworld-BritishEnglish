@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Build multi-analyzers which increase research speed and allow higher-level research projects. Requires advanced components to construct.</MultiAnalyzer.description>
+  <MultiAnalyzer.label>multi-analyser</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Build multi-analysers which increase research speed and allow higher-level research projects. Requires advanced components to construct.</MultiAnalyzer.description>
 
   <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct.</GroundPenetratingScanner.description>

@@ -65,8 +65,8 @@
 
   <!--========================== Facilities ============================-->
 
-  <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer.</MultiAnalyzer.description>
+  <MultiAnalyzer.label>multi-analyser</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyser.</MultiAnalyzer.description>
 
 
   <!--========================== Facilities ============================-->
