@@ -5,5 +5,9 @@
   <canBeTiny>true</canBeTiny>
   <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
   <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Baa</creditee>
+    </li>
   </credits>
 </LanguageInfo>
