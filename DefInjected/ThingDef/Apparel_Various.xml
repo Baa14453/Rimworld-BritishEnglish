@@ -12,8 +12,8 @@
 
   <!-- ====================================== Medieval =========================================== -->
 
-  <Apparel_Pants.label>pants</Apparel_Pants.label>
-  <Apparel_Pants.description>A simple set of pants.</Apparel_Pants.description>
+  <Apparel_Pants.label>trousers</Apparel_Pants.label>
+  <Apparel_Pants.description>A simple set of trousers.</Apparel_Pants.description>
 
   <Apparel_BasicShirt.label>T-shirt</Apparel_BasicShirt.label>
   <Apparel_BasicShirt.description>A simple T-shirt.</Apparel_BasicShirt.description>
@@ -36,8 +36,8 @@
   <Apparel_FlakVest.label>flak vest</Apparel_FlakVest.label>
   <Apparel_FlakVest.description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</Apparel_FlakVest.description>
 
-  <Apparel_FlakPants.label>flak pants</Apparel_FlakPants.label>
-  <Apparel_FlakPants.description>A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakPants.description>
+  <Apparel_FlakPants.label>flak trousers</Apparel_FlakPants.label>
+  <Apparel_FlakPants.description>A pair of trousers with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakPants.description>
 
   <Apparel_FlakJacket.label>flak jacket</Apparel_FlakJacket.label>
   <Apparel_FlakJacket.description>A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakJacket.description>

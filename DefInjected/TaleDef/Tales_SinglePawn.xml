@@ -76,7 +76,7 @@
     <li>desc_sentence->[PAWN_pronoun] looks happy and sad at the same time.</li>
     <li>desc_sentence->[PAWN_pronoun] has stains down [PAWN_possessive] front.</li>
     <li>desc_sentence->There is a trail of discarded beverage containers behind [PAWN_objective].</li>
-    <li>desc_sentence->There is a white substance on [PAWN_possessive] pants.</li>
+    <li>desc_sentence->There is a white substance on [PAWN_possessive] trousers.</li>
     <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   </Drunk.rulePack.rulesStrings>
