@@ -14,7 +14,7 @@
   <VitalsMonitor.description>Build vitals monitors which improve medical outcomes when placed next to hospital beds.</VitalsMonitor.description>
 
   <Fabrication.label>fabrication</Fabrication.label>
-  <Fabrication.description>Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction.</Fabrication.description>
+  <Fabrication.description>Build fabrication benches, capable of high-tech projects ranging from component assembly to power armour construction.</Fabrication.description>
 
   <AdvancedFabrication.label>advanced fabrication</AdvancedFabrication.label>
   <AdvancedFabrication.description>Fabricate advanced components from standard components and other materials.</AdvancedFabrication.description>
@@ -22,8 +22,8 @@
   <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
   <Cryptosleep.description>Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation.</Cryptosleep.description>
 
-  <PoweredArmor.label>powered armor</PoweredArmor.label>
-  <PoweredArmor.description>Build the power armor and power armor helmets. Note that these also require advanced components.</PoweredArmor.description>
+  <PoweredArmor.label>powered armour</PoweredArmor.label>
+  <PoweredArmor.description>Build the power armour and power armour helmets. Note that these also require advanced components.</PoweredArmor.description>
 
   <ChargedShot.label>pulse-charged munitions</ChargedShot.label>
   <ChargedShot.description>Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components.</ChargedShot.description>

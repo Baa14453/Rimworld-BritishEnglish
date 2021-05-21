@@ -187,7 +187,7 @@
     <li>adverb_deflected->harmlessly</li>
     <li>adverb_deflected->uselessly</li>
     <li>deflected_consequence->but the [TOOL_label] [scraped_past] off [adverb_deflected_opt]</li>
-    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armour [adverb_deflected_opt]</li>
     <li>scraped_present->scraping</li>
     <li>scraped_present->sliding</li>
     <li>scraped_past->scraped</li>
@@ -385,7 +385,7 @@
     <li>adverb_deflected->harmlessly</li>
     <li>adverb_deflected->uselessly</li>
     <li>deflected_consequence->but it [scraped_past] off [adverb_deflected_opt]</li>
-    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</li>
+    <li>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armour [adverb_deflected_opt]</li>
     <li>scraped_past->ricocheted</li>
     <li>scraped_present->ricocheting</li>
     <li>missed->missed</li>

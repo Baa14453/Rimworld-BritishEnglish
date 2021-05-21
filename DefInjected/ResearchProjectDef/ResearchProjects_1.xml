@@ -72,8 +72,8 @@
   <LongBlades.label>long blades</LongBlades.label>
   <LongBlades.description>Craft longswords and spears.</LongBlades.description>
 
-  <PlateArmor.label>plate armor</PlateArmor.label>
-  <PlateArmor.description>Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively.</PlateArmor.description>
+  <PlateArmor.label>plate armour</PlateArmor.label>
+  <PlateArmor.description>Smith suits of plate armour from metal or wood. This heavy armour noticeably slows movement, but protects very effectively.</PlateArmor.description>
 
   <Greatbow.label>greatbow</Greatbow.label>
   <Greatbow.description>Craft greatbows for killing enemies at great range.</Greatbow.description>

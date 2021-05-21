@@ -56,7 +56,7 @@
   <!--===================== Machining and its children sub-tier ======================-->
 
   <Machining.label>machining</Machining.label>
-  <Machining.description>Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources.</Machining.description>
+  <Machining.description>Build machining tables to craft guns, grenades, flak armour, and to disassemble dead mechanoids for resources.</Machining.description>
 
   <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
   <SmokepopBelt.description>Build smokepop belts which generate an automatic defensive smokescreen when the user is shot.</SmokepopBelt.description>
@@ -67,8 +67,8 @@
   <Gunsmithing.label>gunsmithing</Gunsmithing.label>
   <Gunsmithing.description>Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers.</Gunsmithing.description>
 
-  <FlakArmor.label>flak armor</FlakArmor.label>
-  <FlakArmor.description>Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly.</FlakArmor.description>
+  <FlakArmor.label>flak armour</FlakArmor.label>
+  <FlakArmor.description>Craft clothing with metal armour sewn in to resist bullets and explosions. This weighty armour slows movement slightly.</FlakArmor.description>
 
   <Mortars.label>mortars</Mortars.label>
   <Mortars.description>Build mortars which can lob shells long distances - even over walls.</Mortars.description>

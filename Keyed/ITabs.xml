@@ -123,7 +123,7 @@
   <IAmPsychopath>I'm a psychopath</IAmPsychopath>
   
   <!-- Gear tab -->
-  <OverallArmor>Overall armor</OverallArmor>
+  <OverallArmor>Overall armour</OverallArmor>
   <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
   <ArmorBlunt>Blunt</ArmorBlunt>

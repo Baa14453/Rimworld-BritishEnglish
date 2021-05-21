@@ -63,7 +63,7 @@
   <Corpse_WildBoar.description>CorpseDesc</Corpse_WildBoar.description>
 
   <Tortoise.label>tortoise</Tortoise.label>
-  <Tortoise.description>This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
+  <Tortoise.description>This heavily armoured land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armour, it is tough to kill and can do serious damage during drawn-out melee fights.</Tortoise.description>
   <Tortoise.tools.0.label>beak</Tortoise.tools.0.label>
   <Tortoise.tools.1.label>head</Tortoise.tools.1.label>
 
