@@ -12,7 +12,7 @@
   <!-- ==================== Molotov cocktail ========================== -->
 
   <Weapon_GrenadeMolotov.label>molotov cocktails</Weapon_GrenadeMolotov.label>
-  <Weapon_GrenadeMolotov.description>Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.description>Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favourite weapon of hooligans and desperate warriors from rim to rim.</Weapon_GrenadeMolotov.description>
   <Weapon_GrenadeMolotov.verbs.0.label>throw molotov</Weapon_GrenadeMolotov.verbs.0.label>
   <Proj_GrenadeMolotov.label>molotov cocktail</Proj_GrenadeMolotov.label>
 

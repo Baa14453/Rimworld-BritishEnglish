@@ -11,8 +11,8 @@ sweet foods
 savory foods
 bitter foods
 
-favorite haircuts
-favorite clothes
+favourite haircuts
+favourite clothes
 hairstyles
 fashion
 makeup
@@ -43,6 +43,7 @@ beaches
 animals
 cute animals
 fat animals
+big chonkers
 pets
 
 pet peeves
@@ -68,6 +69,6 @@ board games
 computer games
 television
 poker
-billiards
+pool
 spaceships
 xenohumans
