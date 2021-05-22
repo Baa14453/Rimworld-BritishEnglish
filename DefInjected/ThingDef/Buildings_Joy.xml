@@ -29,8 +29,8 @@
   <Blueprint_Install_ChessTable.label>BlueprintLabelExtra</Blueprint_Install_ChessTable.label>
   <Frame_ChessTable.label>FrameLabelExtra</Frame_ChessTable.label>
 
-  <BilliardsTable.label>billiards table</BilliardsTable.label>
-  <BilliardsTable.description>A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability.</BilliardsTable.description>
+  <BilliardsTable.label>pool table</BilliardsTable.label>
+  <BilliardsTable.description>A soft-topped bounded table for playing a variety of pool-type games. It trains shooting ability.</BilliardsTable.description>
 
   <Blueprint_BilliardsTable.label>BlueprintLabelExtra</Blueprint_BilliardsTable.label>
   <Blueprint_Install_BilliardsTable.label>BlueprintLabelExtra</Blueprint_Install_BilliardsTable.label>
