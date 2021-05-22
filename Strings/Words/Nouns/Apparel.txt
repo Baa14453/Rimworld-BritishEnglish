@@ -5,7 +5,7 @@ jacket
 raincoat
 formal suit
 evening gown
-parka
+coat
 duster
 space suit
 power armour suit

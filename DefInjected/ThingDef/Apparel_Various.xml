@@ -6,8 +6,8 @@
   <Apparel_TribalA.label>tribalwear</Apparel_TribalA.label>
   <Apparel_TribalA.description>A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</Apparel_TribalA.description>
 
-  <Apparel_Parka.label>parka</Apparel_Parka.label>
-  <Apparel_Parka.description>A parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
+  <Apparel_Parka.label>coat</Apparel_Parka.label>
+  <Apparel_Parka.description>A coat for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
 
 
   <!-- ====================================== Medieval =========================================== -->
